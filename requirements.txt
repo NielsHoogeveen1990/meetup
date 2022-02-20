@@ -1,0 +1,9 @@
+jupyterlab
+numpy
+pandas
+seaborn
+sklearn
+tensorflow
+keras
+typing
+plotly
