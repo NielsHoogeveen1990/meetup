@@ -118,4 +118,4 @@ dmypy.json
 # Added
 .idea/
 .DS_store
-data/
+notebooks/
